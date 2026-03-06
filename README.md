@@ -66,14 +66,16 @@ Future Improvements
 OAuth authentication
 
 Role-based access control
-errors:
-IN save data in database
-in token genrate
-in llms 
-in reponse test llms
+
 Rate limitinge
 
 Support for multiple AI models
+errors:
+IN save data in database,
+in token genrate,
+in llms ,
+in reponse test llms
+
 
 
 errors:
